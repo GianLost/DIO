@@ -1,0 +1,28 @@
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.exe
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.deps.json
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.runtimeconfig.json
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.pdb
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\refint\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.pdb
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\DIO CURSOS\C#\DIO\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\ref\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.exe
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.deps.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.runtimeconfig.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\bin\Debug\net6.0\Gerenciamento_De_Tarefas.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\refint\Gerenciamento_De_Tarefas.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\Gerenciamento_De_Tarefas.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Dominando_Os_Operadores\Gerenciamento_De_Tarefas\obj\Debug\net6.0\ref\Gerenciamento_De_Tarefas.dll

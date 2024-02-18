@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3yfU2b3KkuOTzFCH/yIPFpP0PozLR4G1vsGymHdhUXSAXmEC3BJwFqax1S/u+AZgC79XalDPcqQY8peSkMhog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Utilizando_Arrays_E_Listas\\Catalogo_De_Jogos\\Catalogo_De_Jogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
