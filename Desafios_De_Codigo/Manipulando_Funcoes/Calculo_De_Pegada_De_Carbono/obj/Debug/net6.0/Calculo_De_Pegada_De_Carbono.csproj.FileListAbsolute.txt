@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\bin\Debug\net6.0\Calculo_De_Pegada_De_Carbono.exe
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\bin\Debug\net6.0\Calculo_De_Pegada_De_Carbono.deps.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\bin\Debug\net6.0\Calculo_De_Pegada_De_Carbono.runtimeconfig.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\bin\Debug\net6.0\Calculo_De_Pegada_De_Carbono.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\bin\Debug\net6.0\Calculo_De_Pegada_De_Carbono.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.sourcelink.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\refint\Calculo_De_Pegada_De_Carbono.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\Calculo_De_Pegada_De_Carbono.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Manipulando_Funcoes\Calculo_De_Pegada_De_Carbono\obj\Debug\net6.0\ref\Calculo_De_Pegada_De_Carbono.dll
