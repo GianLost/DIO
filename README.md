@@ -10,7 +10,7 @@ A Digital Innovation One é uma plataforma educacional que oferece cursos e cont
 
 Neste repositório, você encontrará uma série de pastas, cada uma correspondente a um desafio específico. Dentro de cada pasta de desafio, você encontrará:
 
-- O enunciado do desafio: Um arquivo de texto ou Markdown descrevendo o problema a ser resolvido.
+- O enunciado do desafio: Presente dentro do arquivo Program.cs onde os desafios são desenvolvidos em cada projeto.
 - A solução em C#: Um ou mais arquivos contendo o código-fonte da solução para o desafio em C#.
 - Qualquer arquivo adicional necessário para a solução, como arquivos de entrada ou saída.
 
