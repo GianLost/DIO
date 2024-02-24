@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VXR9TOSBj5HkTq7kJwpZcHKnMP25/WD6msoKbJcnbI0+GB8hVPqwJ1ZpTq92FeJseDl24NSEtlLBaNJMzCbxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Desafios_De_Codigo\\Criando_Um_Jogador_De_Futebol\\Criando_Um_Jogador_De_Futebol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
