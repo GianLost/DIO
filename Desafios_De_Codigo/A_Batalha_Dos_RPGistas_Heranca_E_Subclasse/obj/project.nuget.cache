@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cLZ3tEV1g5YGns7NccC+/uDNGoZSYfhJcyZC5I6pW0VGMnE0LsWNwoHYcz2Uf6B0OoNfTQwWnAKZc8Xf4PJJwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Desafios_De_Codigo\\A_Batalha_Dos_RPGistas_Heranca_E_Subclasse\\A_Batalha_Dos_RPGistas_Heranca_E_Subclasse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

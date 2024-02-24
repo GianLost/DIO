@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A_Batalha_Dos_RPGistas_Heranca_E_Subclasse/1.0.0": {
+        "runtime": {
+          "A_Batalha_Dos_RPGistas_Heranca_E_Subclasse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A_Batalha_Dos_RPGistas_Heranca_E_Subclasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
