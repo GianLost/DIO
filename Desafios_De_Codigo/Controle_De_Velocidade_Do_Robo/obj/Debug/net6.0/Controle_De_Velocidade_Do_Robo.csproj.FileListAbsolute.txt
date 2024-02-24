@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\bin\Debug\net6.0\Controle_De_Velocidade_Do_Robo.exe
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\bin\Debug\net6.0\Controle_De_Velocidade_Do_Robo.deps.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\bin\Debug\net6.0\Controle_De_Velocidade_Do_Robo.runtimeconfig.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\bin\Debug\net6.0\Controle_De_Velocidade_Do_Robo.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\bin\Debug\net6.0\Controle_De_Velocidade_Do_Robo.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.sourcelink.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\refint\Controle_De_Velocidade_Do_Robo.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\Controle_De_Velocidade_Do_Robo.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Controle_De_Velocidade_Do_Robo\obj\Debug\net6.0\ref\Controle_De_Velocidade_Do_Robo.dll
