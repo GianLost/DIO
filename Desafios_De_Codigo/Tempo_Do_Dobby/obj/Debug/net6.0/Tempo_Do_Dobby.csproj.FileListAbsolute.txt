@@ -1,0 +1,15 @@
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\bin\Debug\net6.0\Tempo_Do_Dobby.exe
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\bin\Debug\net6.0\Tempo_Do_Dobby.deps.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\bin\Debug\net6.0\Tempo_Do_Dobby.runtimeconfig.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\bin\Debug\net6.0\Tempo_Do_Dobby.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\bin\Debug\net6.0\Tempo_Do_Dobby.pdb
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.GeneratedMSBuildEditorConfig.editorconfig
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.AssemblyInfoInputs.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.AssemblyInfo.cs
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.csproj.CoreCompileInputs.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.sourcelink.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\refint\Tempo_Do_Dobby.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.pdb
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\Tempo_Do_Dobby.genruntimeconfig.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Tempo_Do_Dobby\obj\Debug\net6.0\ref\Tempo_Do_Dobby.dll

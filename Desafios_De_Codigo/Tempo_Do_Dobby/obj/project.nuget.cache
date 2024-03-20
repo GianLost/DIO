@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXi+/waAXP3b2zyEh12PN2oDfVr2hPSHEhqKrV8om9a1dAFpU0jtxF4xWQ5X4uYOI9gkgW36GtJOD8G1byWHmg==",
+  "success": true,
+  "projectFilePath": "E:\\docs\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Desafios_De_Codigo\\Tempo_Do_Dobby\\Tempo_Do_Dobby.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
