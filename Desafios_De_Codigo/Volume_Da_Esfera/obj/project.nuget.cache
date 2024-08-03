@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhL5gwaVtus0RIQigi0EKsPloCMOnVFNMLolyNt/sHkSJorjmaO1y2zRF/AxWut/Kl61882TuzV5W+dMClt/xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Desafios_De_Codigo\\Volume_Da_Esfera\\Volume_Da_Esfera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

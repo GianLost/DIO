@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\bin\Debug\net6.0\Pink_E_Cerebro.exe
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\bin\Debug\net6.0\Pink_E_Cerebro.deps.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\bin\Debug\net6.0\Pink_E_Cerebro.runtimeconfig.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\bin\Debug\net6.0\Pink_E_Cerebro.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\bin\Debug\net6.0\Pink_E_Cerebro.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.sourcelink.json
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\refint\Pink_E_Cerebro.dll
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.pdb
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\Pink_E_Cerebro.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Pink_E_Cerebro\obj\Debug\net6.0\ref\Pink_E_Cerebro.dll

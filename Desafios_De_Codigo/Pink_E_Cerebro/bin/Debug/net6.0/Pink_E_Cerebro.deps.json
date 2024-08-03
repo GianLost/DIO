@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pink_E_Cerebro/1.0.0": {
+        "runtime": {
+          "Pink_E_Cerebro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pink_E_Cerebro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

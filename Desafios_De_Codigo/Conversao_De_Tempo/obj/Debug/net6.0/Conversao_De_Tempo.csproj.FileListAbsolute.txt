@@ -1,0 +1,15 @@
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\bin\Debug\net6.0\Conversao_De_Tempo.exe
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\bin\Debug\net6.0\Conversao_De_Tempo.deps.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\bin\Debug\net6.0\Conversao_De_Tempo.runtimeconfig.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\bin\Debug\net6.0\Conversao_De_Tempo.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\bin\Debug\net6.0\Conversao_De_Tempo.pdb
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.GeneratedMSBuildEditorConfig.editorconfig
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.AssemblyInfoInputs.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.AssemblyInfo.cs
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.csproj.CoreCompileInputs.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.sourcelink.json
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\refint\Conversao_De_Tempo.dll
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.pdb
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\Conversao_De_Tempo.genruntimeconfig.cache
+E:\docs\Desktop\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Conversao_De_Tempo\obj\Debug\net6.0\ref\Conversao_De_Tempo.dll

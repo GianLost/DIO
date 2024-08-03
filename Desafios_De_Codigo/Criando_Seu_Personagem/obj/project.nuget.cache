@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGWZZXPeA/6EB6Na+B71++8SqUX0HZxy5OXD0R1PVO1dQT+qb9QljkGInvYHGRxfKcs7cNbSj5yKjYS95lhdsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\DIO\\C#\\Desafios_De_Codigo\\Desafios_De_Codigo\\Criando_Seu_Personagem\\Criando_Seu_Personagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

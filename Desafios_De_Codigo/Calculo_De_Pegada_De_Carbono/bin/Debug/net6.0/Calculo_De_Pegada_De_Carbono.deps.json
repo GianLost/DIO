@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculo_De_Pegada_De_Carbono/1.0.0": {
+        "runtime": {
+          "Calculo_De_Pegada_De_Carbono.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_De_Pegada_De_Carbono/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
