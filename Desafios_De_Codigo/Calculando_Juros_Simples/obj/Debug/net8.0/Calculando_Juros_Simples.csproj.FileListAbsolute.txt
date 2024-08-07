@@ -1,0 +1,15 @@
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\bin\Debug\net8.0\Calculando_Juros_Simples.exe
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\bin\Debug\net8.0\Calculando_Juros_Simples.deps.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\bin\Debug\net8.0\Calculando_Juros_Simples.runtimeconfig.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\bin\Debug\net8.0\Calculando_Juros_Simples.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\bin\Debug\net8.0\Calculando_Juros_Simples.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.sourcelink.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\refint\Calculando_Juros_Simples.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\Calculando_Juros_Simples.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Simples\obj\Debug\net8.0\ref\Calculando_Juros_Simples.dll

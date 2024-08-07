@@ -1,0 +1,15 @@
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\bin\Debug\net8.0\Calculando_Juros_Compostos.exe
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\bin\Debug\net8.0\Calculando_Juros_Compostos.deps.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\bin\Debug\net8.0\Calculando_Juros_Compostos.runtimeconfig.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\bin\Debug\net8.0\Calculando_Juros_Compostos.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\bin\Debug\net8.0\Calculando_Juros_Compostos.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.sourcelink.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\refint\Calculando_Juros_Compostos.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\Calculando_Juros_Compostos.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Calculando_Juros_Compostos\obj\Debug\net8.0\ref\Calculando_Juros_Compostos.dll
