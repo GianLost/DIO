@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Analisando_A_Volatilidade_De_Um_Ativo/1.0.0": {
+        "runtime": {
+          "Analisando_A_Volatilidade_De_Um_Ativo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analisando_A_Volatilidade_De_Um_Ativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

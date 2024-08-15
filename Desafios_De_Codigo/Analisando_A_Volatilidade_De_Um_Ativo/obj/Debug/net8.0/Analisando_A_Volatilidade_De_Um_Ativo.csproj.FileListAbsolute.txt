@@ -1,0 +1,15 @@
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\bin\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.exe
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\bin\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.deps.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\bin\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.runtimeconfig.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\bin\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\bin\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.sourcelink.json
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\refint\Analisando_A_Volatilidade_De_Um_Ativo.dll
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.pdb
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\Analisando_A_Volatilidade_De_Um_Ativo.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\DIO\C#\Desafios_De_Codigo\Desafios_De_Codigo\Analisando_A_Volatilidade_De_Um_Ativo\obj\Debug\net8.0\ref\Analisando_A_Volatilidade_De_Um_Ativo.dll
