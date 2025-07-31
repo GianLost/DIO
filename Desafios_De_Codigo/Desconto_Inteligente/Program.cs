@@ -8,7 +8,10 @@ double porcentagemDesconto = Convert.ToDouble(Console.ReadLine());
 
 // TODO: Verifique se o desconto está dentro de um intervalo válido
 if (porcentagemDesconto < 0 || porcentagemDesconto > 100)
-    Console.WriteLine("desconto invalido.");
+{
+    Console.WriteLine("Desconto invalido");
+    return;
+}
 
 // TODO: Calcule o valor final do produto
 double valorFinal = valorOriginal * (1 - porcentagemDesconto / 100);
